@@ -24,4 +24,4 @@ This Python program demonstrates how to:
 1. Create a simple text file in the same directory (e.g. `example.txt`).
 2. Run the program:
    ```bash
-   python file_read_write.py
+   filehandling.py
